@@ -27,7 +27,7 @@ A web application using React.js that allows users to input transactions by cate
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/expense-book.git
+   git clone https://github.com/elizayang222/expense-book.git
    cd expense-book
 2. Install dependencies: Using npm:  
    ```bash
